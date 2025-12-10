@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./EnhookLogo.png" width="48px"/>
+<img src="./enhook.png" width="48px"/>
 </p>
 
 <div align="center">
