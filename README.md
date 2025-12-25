@@ -13,7 +13,7 @@ English | [简体中文](./README_cn.md)
 
 ## About this repo
 
-This repo is used for hosting public releases of Enhook, as well as community-contributed configuration files.
+This repo is used for hosting public releases of Enhook, as well as community-contributed configuration files. (now is not implemented)
 
 Enhook is not open source software and this repo DOES NOT contain the source code of Enhook. 
 
